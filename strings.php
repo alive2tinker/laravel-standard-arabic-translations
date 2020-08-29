@@ -121,5 +121,12 @@ return [
     'products'=> "المنتجات",
     'thanks' => "شكرا لاستخدامك تطبيق مخطوبة",
     'hello' => "اهلا",
-    'new_favorite_notification' => "تنبيه بخصوص تفضيل جديد"
+    'new_favorite_notification' => "تنبيه بخصوص تفضيل جديد",
+    'new_message_notification' => "تنبيه بخصوص",
+    'sent_successfully' => "تم الارسال بنجاح",
+    'contact_received' => "شكرا لتواصل معنا! وسنقوم بمراجعة الطلب في اقرب وقت ممكن",
+    'contact_updated' => "تم تحديث طلب التواصل",
+    'updated_successfully' => "تم التحديث بنجاح",
+    'search_keywords' => "كلمات البحث",
+    'welcome' => "هلا بك",
 ];
