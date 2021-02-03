@@ -1,0 +1,14 @@
+{
+    "Login": "تسجيل الدخول",
+    "E-Mail Address": "البريد الالكتروني",
+    "Password": "كلمة المرور",
+    "Remember Me": "تذكرني",
+    "Forgot Your Password?": "نسيت كلمة المرور",
+    "Register": "تسجيل جديد",
+    "Reset Password": "استعادة كلمة المرور",
+    "Send Password Reset Link": "ارسل رابط استعادة كلمة المرور",
+    "Name": "الاسم",
+    "Confirm Password": "تاكيد كلمة المرور",
+    "Laravel": "لارافل",
+    "Logout": "تسجيل الخروج"
+}
